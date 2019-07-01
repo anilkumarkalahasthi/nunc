@@ -1,0 +1,36 @@
+[
+    {
+      "slug":"blockchain",
+      "maintitle": "BIG DATA & ANALYTICS",      
+      "subtitle": "Transform Your Enterprise with the power of Big Data Analytics" ,
+      "param2": "With the increased use of Smartphone around the world, there has been enormous application development serving a large number of operations. For almost every profession now, an App exists for some sort of help and support. Similarly for agriculture as well there exist many apps that can provide help to the farmers in different ways. We have studied a large number of Apps from around the world giving a different kind of assistance in agriculture.",
+      "param3": "<p>Keep it simple with this vintage purple tees .</p>" ,
+      "backgroundimg":"/images/block_chain/blockchain-bg.jpg"
+    },
+    {
+      "slug":"imagesgrid",           
+      "image1":"/images/block_chain/img_1.png",
+      "image2":"/images/block_chain/img_2.png",
+      "image3":"/images/block_chain/blockchain-how.jpg"
+    
+
+    }   ,
+    {
+      "slug":"slides",           
+      "slide1":"/images/case_studies_img1.png",      
+      "slide2":"/images/case_studies_img2.png",      
+      "slide3":"/images/case_studies_img3.png",     
+      "slide4":"/images/case_studies_img4.png"    
+      
+      
+
+    }   ,
+    {
+      "slug":"tabsgrid",           
+      "title":"Why Nunc?",
+      "subtitle":"Ensure that you focus on your core bussiness while we do rest",
+      "param1":"NUNC specializes in agriculture software mobile applications for developing economies with a primary focus on sustainable agriculture and empowerment of smallholder farmers. NUNC farmer-centric mobile applications help to manage agriculture value chain all the way to the last mile to enable smallholder farmers to participate in the global market.",
+      "param2":"NUNC sets the industry standard for mobile application in remote and low bandwidth environments. Real-time information allows management to increase operational efficiencies and reduce costs and contributes to smart agriculture and incentivizes smallholder farmer organizations to embrace technology and increase their production.",
+       "tab1":"/images/tab-1.png"
+    }   
+  ]

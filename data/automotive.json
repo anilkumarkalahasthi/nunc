@@ -1,0 +1,29 @@
+[
+    {
+      "slug":"automotive",
+      "maintitle": "BIG DATA & ANALYTICS",      
+      "subtitle": "Transform Your Enterprise with the power of Big Data Analytics" ,
+      "param2": "With the increased use of Smartphone around the world, there has been enormous application development serving a large number of operations. For almost every profession now, an App exists for some sort of help and support. Similarly for agriculture as well there exist many apps that can provide help to the farmers in different ways. We have studied a large number of Apps from around the world giving a different kind of assistance in agriculture.",
+      "param3": "<p>Keep it simple with this vintage purple tees .</p>" ,
+      "img1":"/images/automotive/car.png"
+    },
+    {
+      "slug":"sideimages", 
+      "icon1":"/images/automotive/icon_1.png",
+      "icon2":"/images/automotive/icon_2.png",
+      "icon3":"/images/automotive/icon_3.png",      
+      "icon4":"/images/automotive/icon_4.png",
+      "icon5":"/images/automotive/icon_5.png",           
+      "img1":"/images/automotive/img_1.png",
+      "img2":"/images/automotive/img_2.png",
+      "img3":"/images/automotive/img_3.png",
+      "img4":"/images/automotive/img_4.png",
+      "img5":"/images/automotive/img_5.png",
+      "img6":"/images/automotive/img_6.png",
+      "test":"/images/automotive/testing.png",
+      "mail_us":"/images/common/mail_us.png",
+      "mobi_screen":"/images//automotive/mobile_screens_img.png"
+    }   
+    
+   
+  ]

@@ -1,0 +1,23 @@
+[
+    {
+      "slug":"chatbot",
+      "maintitle": "CHATBOTS",      
+      "subtitle": "ARTIFICIAL INTELLIGENCE MADE EASY" ,
+      "param2": "With the increased use of Smartphone around the world, there has been enormous application development serving a large number of operations. For almost every profession now, an App exists for some sort of help and support. Similarly for agriculture as well there exist many apps that can provide help to the farmers in different ways. We have studied a large number of Apps from around the world giving a different kind of assistance in agriculture.",
+      "param3": "<p>Keep it simple with this vintage purple tees .</p>" ,
+      "backgroundimg":"/images/block_chain/blockchain-bg.jpg"
+    },
+    {
+      "slug":"sa",           
+      "image1":"/images/staff_agumentation/24-7-img.png",
+      "image2":"/images/staff_agumentation/staffperson.png",
+      "image3":"/images/staff_agumentation/arrow.png",
+      "icon1":"/images/staff_agumentation/icon_1.png",
+      "icon2":"/images/staff_agumentation/icon_2.png",
+      "icon3":"/images/staff_agumentation/icon_3.png"
+
+
+      
+    }   
+   
+  ]

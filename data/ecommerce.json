@@ -1,0 +1,37 @@
+[
+    {
+      "slug":"home",
+      "maintitle": "BIG DATA & ANALYTICS",      
+      "subtitle": "Transform Your Enterprise with the power of Big Data Analytics" ,
+      "param2": "With the increased use of Smartphone around the world, there has been enormous application development serving a large number of operations. For almost every profession now, an App exists for some sort of help and support. Similarly for agriculture as well there exist many apps that can provide help to the farmers in different ways. We have studied a large number of Apps from around the world giving a different kind of assistance in agriculture.",
+      "param3": "<p>Keep it simple with this vintage purple tees .</p>" ,
+      "videos":"/images/1.mp4"
+    },
+    {
+      "slug":"sideimages",           
+      "image1":"/images/e-commerce/mobile_img.png",
+      "image2":"/images/e-commerce/social-media-advt.png",
+      "image3":"/images/e-commerce/pay-per-click.png",
+      "image4":"/images/e-commerce/seo.png",
+      "image5":"/images/e-commerce/whatsapp-marketing.png",
+      "bicon":"/images/e-commerce/block_chain_icon.png",
+      "icon1":"/images/e-commerce/icon_1.png",
+      "icon2":"/images/e-commerce/icon_2.png",
+      "icon3":"/images/e-commerce/icon_3.png",      
+      "icon4":"/images/e-commerce/icon_4.png",
+      "icon5":"/images/e-commerce/icon_5.png",
+      "icon6":"/images/e-commerce/icon_6.png",
+      "icon7":"/images/e-commerce/icon_7.png",
+      "icon8":"/images/e-commerce/icon_8.png",
+      "icon9":"/images/e-commerce/icon_9.png",
+      "icon10":"/images/e-commerce/icon_10.png",
+      "icon11":"/images/e-commerce/icon_11.png",
+      "img1":"/images/e-commerce/img_1.png",
+      "img2":"/images/e-commerce/img_2.png",
+      "img3":"/images/e-commerce/img_3.png"
+
+
+    }   
+    
+   
+  ]

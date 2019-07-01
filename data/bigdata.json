@@ -1,0 +1,22 @@
+[
+    {
+      "slug":"bigdatamain",
+      "maintitle": "Our Story",      
+      "param1": "We are a bunch of wonderful IT talents who cooperate to reliably deliver top-notch software solutions. We owe our triumph to our dynamic culture that is rooted in self-organization. We are unique because we follow the customer-first approach." ,
+      "param2": "With the increased use of Smartphone around the world, there has been enormous application development serving a large number of operations. For almost every profession now, an App exists for some sort of help and support. Similarly for agriculture as well there exist many apps that can provide help to the farmers in different ways. We have studied a large number of Apps from around the world giving a different kind of assistance in agriculture.",
+      "param3": "<p>Keep it simple with this vintage purple tees .</p>" 
+    }   ,
+    {
+      "slug":"icons",           
+      "image1":"/images/big_data/team-leader.png",
+      "image2":"/images/big_data/scalable.png",
+      "image3":"/images/big_data/secure.png",
+      "image4":"/images/big_data/bars.png"
+    }   ,
+    {
+      "slug":"submain",
+      "title": "Pardeep narwal", 
+      "subimage":"https://images.ctfassets.net/7kyf0q55752r/2pwc7UoZos24vXNrEmXsXi/00c75c9ef89ad9ceaa4f98c45c5992f8/tab-1.png",     
+      "description": "<p>Keep it simple with this vintage purple tees .</p>"  
+    }   
+  ] 

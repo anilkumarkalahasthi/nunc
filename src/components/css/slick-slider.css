@@ -1,0 +1,60 @@
+
+    html, body {
+    margin: 0;
+    padding: 0;
+    }
+
+    * {
+    box-sizing: border-box;
+    }
+
+    .case_study_slider {
+        width: 80%;
+        margin: 50px auto;
+    }
+    .image_container{
+    position: relative;
+    }
+    .image_title{
+    position: absolute;
+    bottom: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    }
+    .slick-slide {
+    margin: 0px 20px;
+    }
+
+    .slick-slide img {
+    width: 100%;
+    border-radius: 10px;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+    color: black;
+    }
+
+
+    .slick-slide {
+    transition: all ease-in-out .3s;
+    opacity: .2;
+    }
+
+    .slick-active {
+    opacity: 1;
+    }
+
+    .slick-current {
+    opacity: 1;
+    }
+
+    @media screen and (min-width: 992px){
+        .case-study-slider {
+            width: 95%;
+            margin: 50px auto;
+        }
+    }
